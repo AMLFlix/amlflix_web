@@ -1,5 +1,1200 @@
 [
   {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2300/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 1",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/198.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/13006/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 2",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/176.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/30936/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 3",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/175.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/15898/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 4",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/174.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2278/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 5",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/173.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/57018/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 6",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/250.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/282262/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 7",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/249.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/15452/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 8",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/248.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/9047/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 9",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/247.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/290680/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 10",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/246.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/459/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 11",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/245.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2344/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 12",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/244.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/66075/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 13",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/358.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/163079/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 14",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/348.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12982/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 15",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/265.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6503/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 16",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/251.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/752/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 17",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/241.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/296889/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 18",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/236.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/30900/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 19",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/233.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/3388/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 20",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/231.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/3387/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 21",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/230.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/759/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 22",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/229.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2330/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 23",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/224.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/5840/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 24",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/223.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/39873/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 25",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/222.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6497/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 26",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/192.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2294/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 27",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/187.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12992/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 28",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/328.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/200162/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 29",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/327.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6328/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 30",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/326.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6305/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 31",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/325.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/760/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 32",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/324.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2335/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 33",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/323.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/5844/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 34",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/322.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2336/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 35",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/321.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/281940/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 36",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/318.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8392/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 37",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/310.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12995/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 38",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/302.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6306/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 39",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/301.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/13008/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 40",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/300.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/16139/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 41",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/299.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12036/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 42",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/298.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/78161/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 43",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/297.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/765/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 44",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/296.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2364/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 45",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/289.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/15058/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 46",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/285.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2359/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 47",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/284.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/15052/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 48",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/283.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/15056/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 49",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/282.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/38500/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 50",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/281.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2357/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 51",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/280.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12040/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 52",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/279.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12044/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 53",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/278.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/5831/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 54",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/276.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8585/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 55",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/275.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/764/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 56",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/264.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/269161/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 57",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/234.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6395/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 58",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/202.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8608/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 59",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/201.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2303/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 60",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/200.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/754/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 61",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/191.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2281/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 62",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/180.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2286/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 63",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/349.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/281177/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 64",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/303.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6399/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 65",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/290.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2351/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 66",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/266.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/14835/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 67",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/263.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/762/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 68",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/254.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/198961/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 69",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/253.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/272264/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 70",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/242.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/298969/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 71",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/239.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/5845/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 72",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/228.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/758/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 73",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/221.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/11712/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 74",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/219.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/147553/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 75",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/218.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/757/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 76",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/217.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/756/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 77",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/216.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2314/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 78",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/214.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2311/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 79",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/208.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/14816/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 80",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/206.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/41918/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 81",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/205.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/747/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 82",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/204.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/299352/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 83",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/189.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2295/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 84",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/188.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/267357/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 85",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/184.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151032/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 86",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/172.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151028/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 87",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/171.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151030/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 88",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/170.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151026/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 89",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/169.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151024/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 90",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/168.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151022/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 91",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/167.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/284530/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 92",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/166.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/3367/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 93",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/165.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/29664/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 94",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/160.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/59945/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 95",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/355.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/296675/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 96",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/354.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/3361/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 97",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/353.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/163132/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 98",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/347.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/263/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 99",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/346.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/260/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 100",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/345.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/261/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 101",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/344.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/283053/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 102",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/343.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/264/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 103",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/342.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/266/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 104",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/341.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/265/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 105",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/340.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/269/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 106",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/339.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/267/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 107",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/338.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/268/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 108",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/337.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/3373/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 109",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/334.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/12986/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 110",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/333.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8490/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 111",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/332.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/16116/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 112",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/331.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/35132/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 113",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/330.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/45785/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 114",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/329.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/294679/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 115",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/319.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/157606/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 116",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/317.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/530/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 117",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/316.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/7765/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 118",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/315.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/13240/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 119",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/314.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/286493/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 120",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/307.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/9235/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 121",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/306.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6340/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 122",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/305.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2275/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 123",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/286.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/29657/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 124",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/277.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6447/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 125",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/274.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/35140/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 126",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/268.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2348/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 127",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/262.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2369/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 128",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/261.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2367/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 129",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/260.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/82291/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 130",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/255.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/77844/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 131",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/252.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/406/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 132",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/243.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2342/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 133",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/240.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/469/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 134",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/238.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/150607/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 135",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/237.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8557/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 136",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/235.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2273/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 137",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/232.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/466/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 138",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/227.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/13217/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 139",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/226.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/9234/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 140",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/225.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6361/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 141",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/220.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2329/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 142",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/215.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/294805/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 143",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/213.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/1611/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 144",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/212.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2316/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 145",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/211.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/41030/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 146",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/210.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2315/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 147",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/209.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2312/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 148",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/207.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2306/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 149",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/203.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/201208/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 150",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/199.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/166530/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 151",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/197.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/281955/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 152",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/196.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2299/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 153",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/195.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/187047/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 154",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/194.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/478/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 155",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/193.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6431/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 156",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/190.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8606/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 157",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/186.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/295364/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 158",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/185.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2740/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 159",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/183.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/8436/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 160",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/182.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2282/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 161",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/181.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2280/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 162",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/179.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/298941/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 163",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/178.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2279/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 164",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/177.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6329/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 165",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/164.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6337/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 166",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/163.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/283863/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 167",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/162.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/298936/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 168",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/161.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2734/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 169",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/159.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/285161/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 170",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/357.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/9699/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 171",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/356.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/82294/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 172",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/352.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/480/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 173",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/351.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/753/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 174",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/350.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/1080/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 175",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/336.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/1081/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 176",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/335.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/294678/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 177",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/320.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/150727/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 178",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/313.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/298313/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 179",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/312.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/151056/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 180",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/311.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/286084/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 181",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/309.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/299117/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 182",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/308.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/169839/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 183",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/304.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/24330/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 184",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/295.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2361/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 185",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/294.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2370/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 186",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/293.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/282288/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 187",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/292.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 188",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/291.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/1066/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 189",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/288.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/2362/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 190",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/287.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/282295/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 191",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/273.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/281945/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 192",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/272.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/5570/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 193",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/271.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/286484/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 194",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/270.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/14839/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 195",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/269.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6378/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 196",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/267.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/193458/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 197",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/259.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/6296/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 198",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/258.png"
+  },
+  {
+    "chU": "https://livecdn-iptv001.rumsport.com/stream/163737/index.m3u8",
+    "options": "two",
+    "chN": "amlflix live channel - 199",
+    "chIMG": "https://i0.wp.com/img-bs.2sport.tv/static/common/img/tv-channel/light/257.png"
+  },
+
+  {
     "chU": "https://webudit.cdndac.lol/lb/premium51/index.m3u8",
     "chN": "ABC USA",
     "options": "one",
