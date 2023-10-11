@@ -1,5 +1,41 @@
 [
   {
+    "chU": "https://nl.score911.cc/uk_bts1/index.m3u8?|Referer\u003dhttps://ggsport.tv/\u0026user-agent\u003dAndroid",
+    "chN": "TNT SPORTS 1 [USE VPN]",
+    "options": "two",
+    "chIMG": "https://i.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg",
+    "favorite": "false"
+  },
+  {
+    "chU": "https://nl.score911.cc/uk_bts2/index.m3u8?|Referer\u003dhttps://ggsport.tv/\u0026user-agent\u003dAndroid",
+    "chN": "TNT SPORTS 2 [USE VPN]",
+    "options": "two",
+    "chIMG": "https://i.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg",
+    "favorite": "false"
+  },
+  {
+    "chU": "https://nl.score911.cc/uk_bts3/index.m3u8?|Referer\u003dhttps://ggsport.tv/\u0026user-agent\u003dAndroid",
+    "chN": "TNT SPORTS 3 [USE VPN]",
+    "options": "two",
+    "chIMG": "https://i.eurosport.com/2023/07/17/3746025-76210428-2560-1440.jpg",
+    "favorite": "false"
+  },
+  {
+    "chU": "https://nl.score911.cc/uk_premiersports1/index.m3u8?|Referer\u003dhttps://ggsport.tv/\u0026user-agent\u003dAndroid",
+    "chN": "Premier SPORTS 1 [USE VPN]",
+    "options": "two",
+    "chIMG": "https://platform.247cdn.net/247platform-images/73/1214079/4d-18ead9-43-1080-1920-7000-thumb-0.jpg",
+    "favorite": "false"
+  },
+  {
+    "chU": "https://nl.score911.cc/uk_premiersports2/index.m3u8?|Referer\u003dhttps://ggsport.tv/\u0026user-agent\u003dAndroid",
+    "chN": "Premier SPORTS 2 [USE VPN]",
+    "options": "two",
+    "chIMG": "https://platform.247cdn.net/247platform-images/73/1214079/4d-18ead9-43-1080-1920-7000-thumb-0.jpg",
+    "favorite": "false"
+  },
+
+  {
     "chU": "https://webudit.vipboxtv.stream/lb/premium51/index.m3u8?|Referer\u003dhttps://livehdplay.ru//\u0026User-Agent\u003dMozilla/5.0",
     "chN": "ABC USA",
     "options": "two",
